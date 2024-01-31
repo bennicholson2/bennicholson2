@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bennicholson2
 - 👀 I’m a Data Science Major at Seton Hill University
-- 🌱 I’m Data Science & Mathematics
+- 🌱 I’m learning Data Science & Mathematics
 - 📫 How to reach me: Twitter-@ben_nicholson2
 
 <!---

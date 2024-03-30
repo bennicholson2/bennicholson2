@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Benjamin Nicholson
 - 👀 I’m a Data Science Major at Seton Hill University
-- 🌱 I am wanting to break into the Space Industry
+- 🌱 Curious about Space, Mathematics & Machine Learning
+- 📚 Currently working on Maryland Car Sales Project & Stack Overflow Survey Analysis
 - 📫 How to reach me: Twitter-@ben_nicholson2; Gmail-nicholsonbenben@gmail.com
 
 <!---

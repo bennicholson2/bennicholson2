@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Benjamin Nicholson
 - 👀 I’m a Data Science Major at Seton Hill University
-- 🌱 Curious about Space, Mathematics & Machine Learning
-- 📚 Currently working on Comprehensive Analysis of Maryland Automotive Industry & Stack Overflow Survey 2023 Analysis
+- 🌱 Learning about Reinforcement Learning in Quantitative Finance
+- 📚 Currently working on Research Project & EY Data Challenge
 - 📫 How to reach me: Gmail-nicholson.benjaminn@gmail.com
 
 <!---

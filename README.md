@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Benjamin Nicholson
 - 👀 I’m currently at Stony Brook University studying a MS in Applied Mathematics and Statistics
 - 🌱 Concentrating in Quantitative Finance 
-- 📚 Currently working on ---
+- 📚 Currently working on reinforcement learning in mean reversion trading strategies
 - 📫 How to reach me: Gmail-nicholson.benjamin.t@gmail.com
 
 <!---

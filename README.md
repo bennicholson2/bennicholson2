@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Benjamin Nicholson
-- 👀 I’m currently at Stony Brook University studying a MS in Applied Mathematics and Statistics
-- 🌱 Concentrating in Quantitative Finance 
-- 📚 Currently working on reinforcement learning in mean reversion trading strategies
-- 📫 How to reach me: Gmail-nicholson.benjamin.t@gmail.com
+My name is Benjamin Nicholson. 
+I leverage my academic background in Applied Mathematics and Data Science to transform the financial industry.
+Currently developing my software engineering and system design skill set to build 'good code'.
+
 
 <!---
 bennicholson2/bennicholson2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
